@@ -29,6 +29,12 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import hiring_cell from "./hiring_cell.png"
+import wallet_me from "./wallet_me.png"
+import target from "./target.png"
+import timestack from "./timestack.png"
+import disk_scheduling from "./disk_scheduling.png"
+import keep_notes from "./keep_notes.png"
 
 export {
   logo,
@@ -59,4 +65,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  hiring_cell,
+  wallet_me,
+  target,
+  timestack,
+  disk_scheduling,
+  keep_notes,
 };

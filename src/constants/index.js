@@ -23,6 +23,12 @@ import {
     jobit,
     tripguide,
     threejs,
+    hiring_cell,
+    wallet_me,
+    target,
+    timestack,
+    disk_scheduling,
+    keep_notes,
   } from "../assets";
   
   export const navLinks = [
@@ -44,10 +50,6 @@ import {
     {
       title: "Flutter Developer",
       icon: web,
-    },
-    {
-      title: "Web Developer",
-      icon: mobile,
     },
     {
       title: "React Developer",
@@ -198,7 +200,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Hiring Cell",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -207,7 +209,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "firebase",
           color: "green-text-gradient",
         },
         {
@@ -215,32 +217,53 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: hiring_cell,
+      source_code_link: "https://github.com/harshvarmora28/pioneer",
     },
     {
-      name: "Job IT",
+      name: "wallet.me",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
         {
-          name: "react",
+          name: "flutter",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "android",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "ios",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: wallet_me,
+      source_code_link: "https://github.com/harshvarmora28/expense_tracker_flutter_app",
     },
     {
-      name: "Trip Guide",
+      name: "Target",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "flutter",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "api",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: target,
+      source_code_link: "https://github.com/harshvarmora28/target_firebase_flutter_app",
+    },
+    {
+      name: "Timestack",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -249,16 +272,58 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "reactjs",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: timestack,
+      source_code_link: "https://github.com/harshvarmora28/time_stack_next_website",
+    },
+    {
+      name: "Disk scheduling algo",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "green-text-gradient",
+        },
+        {
+          name: "nodejs",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: disk_scheduling,
+      source_code_link: "https://github.com/harshvarmora28/disk_scheduling_algorithm_react_website",
+    },
+    {
+      name: "Keep notes",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "nodejs",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: keep_notes,
+      source_code_link: "https://github.com/harshvarmora28/keep_notes_react_website",
     },
   ];
   
