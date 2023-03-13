@@ -20,11 +20,15 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import firebase from "./tech/firebase.png";
+import flutter from "./tech/flutter.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import the_sparks_foundation from "./company/the_sparks_foundation.png";
+import snc from "./company/snc.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -58,10 +62,14 @@ export {
   tailwind,
   typescript,
   threejs,
+  firebase,
+  flutter,
   meta,
   shopify,
   starbucks,
   tesla,
+  the_sparks_foundation,
+  snc,
   carrent,
   jobit,
   tripguide,
