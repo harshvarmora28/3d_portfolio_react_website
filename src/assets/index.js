@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -39,6 +39,7 @@ import target from "./target.png"
 import timestack from "./timestack.png"
 import disk_scheduling from "./disk_scheduling.png"
 import keep_notes from "./keep_notes.png"
+
 
 export {
   logo,

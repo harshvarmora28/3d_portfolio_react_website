@@ -164,25 +164,25 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a app as beautiful as our product, but Harsh proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      name: "Neh Patel",
+      designation: "Bug hunter",
+      company: "Yogosha",
+      image: "https://pbs.twimg.com/profile_images/1336388176684847104/Pfn9JuyP_400x400.jpg",
     },
     {
       testimonial:
         "I've never met a developer who truly cares about their clients' success like Harsh does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+      name: "Pratik Patel",
+      designation: "Analyst",
+      company: "Wageningen",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
         "After Harsh optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
+      name: "Vipul Chaudhary",
+      designation: "Freelancer",
+      company: "Fiverr",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
