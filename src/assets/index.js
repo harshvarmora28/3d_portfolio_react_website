@@ -4,8 +4,12 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import view from "./view.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import neh from "./neh.png"
+import pratik from "./pratik.png"
+import vipul from "./vipul.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -48,6 +52,7 @@ export {
   mobile,
   web,
   github,
+  view,
   menu,
   close,
   css,
@@ -80,4 +85,7 @@ export {
   timestack,
   disk_scheduling,
   keep_notes,
+  neh, 
+  pratik, 
+  vipul,
 };

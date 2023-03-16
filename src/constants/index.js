@@ -31,6 +31,9 @@ import {
     timestack,
     disk_scheduling,
     keep_notes,
+    neh, 
+    pratik,
+    vipul,
   } from "../assets";
   
   export const navLinks = [
@@ -167,7 +170,7 @@ import {
       name: "Neh Patel",
       designation: "Bug hunter",
       company: "Yogosha",
-      image: "https://pbs.twimg.com/profile_images/1336388176684847104/Pfn9JuyP_400x400.jpg",
+      image: neh,
     },
     {
       testimonial:
@@ -175,7 +178,7 @@ import {
       name: "Pratik Patel",
       designation: "Analyst",
       company: "Wageningen",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: pratik,
     },
     {
       testimonial:
@@ -183,7 +186,7 @@ import {
       name: "Vipul Chaudhary",
       designation: "Freelancer",
       company: "Fiverr",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: vipul,
     },
   ];
   
@@ -207,6 +210,7 @@ import {
         },
       ],
       image: hiring_cell,
+      preview_link: "https://pioneer-hiring-cell.web.app/",
       source_code_link: "https://github.com/harshvarmora28/pioneer",
     },
     {
@@ -228,6 +232,7 @@ import {
         },
       ],
       image: wallet_me,
+      preview_link: "https://play.google.com/store/apps/details?id=com.harshcreations.wallet.io",
       source_code_link: "https://github.com/harshvarmora28/expense_tracker_flutter_app",
     },
     {
@@ -249,6 +254,7 @@ import {
         },
       ],
       image: target,
+      preview_link: "https://github.com/harshvarmora28/target_firebase_flutter_app",
       source_code_link: "https://github.com/harshvarmora28/target_firebase_flutter_app",
     },
     {
@@ -270,6 +276,7 @@ import {
         },
       ],
       image: timestack,
+      preview_link: "https://timestack-byharshcreations.netlify.app/",
       source_code_link: "https://github.com/harshvarmora28/time_stack_next_website",
     },
     {
@@ -291,6 +298,7 @@ import {
         },
       ],
       image: disk_scheduling,
+      preview_link: "https://g4-team2-disk-scheduling-algo.web.app/",
       source_code_link: "https://github.com/harshvarmora28/disk_scheduling_algorithm_react_website",
     },
     {
@@ -312,6 +320,7 @@ import {
         },
       ],
       image: keep_notes,
+      preview_link: "https://github.com/harshvarmora28/keep_notes_react_website",
       source_code_link: "https://github.com/harshvarmora28/keep_notes_react_website",
     },
   ];
