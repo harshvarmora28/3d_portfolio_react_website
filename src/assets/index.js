@@ -43,6 +43,7 @@ import target from "./target.png"
 import timestack from "./timestack.png"
 import disk_scheduling from "./disk_scheduling.png"
 import keep_notes from "./keep_notes.png"
+import outturn from "./outturn.png"
 
 
 export {
@@ -85,6 +86,7 @@ export {
   timestack,
   disk_scheduling,
   keep_notes,
+  outturn,
   neh, 
   pratik, 
   vipul,

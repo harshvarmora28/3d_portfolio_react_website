@@ -31,6 +31,7 @@ import {
     timestack,
     disk_scheduling,
     keep_notes,
+    outturn,
     neh, 
     pratik,
     vipul,
@@ -194,7 +195,7 @@ import {
     {
       name: "Hiring Cell",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Placement cells can showcase their profile to the companies. Companies can post the status for hiring purposes. Companies can list all hiring details in their profile. Companies and Placement cells can send autonomous emails to communicate.",
       tags: [
         {
           name: "react",
@@ -216,7 +217,7 @@ import {
     {
       name: "wallet.me",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Designed and developed a clean and modern Expense tracker app using Flutter and SharedPreferences. Users can track their weekly expenses with dynamic chart visualization. Utilized responsive design to ensure compatibility across all devices. Published on google playstore with 5 star rating.",
       tags: [
         {
           name: "flutter",
@@ -238,7 +239,7 @@ import {
     {
       name: "Target",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A Stock market community wherein traders can discuss about indian stocks. Traders can also view live charts of stocks trading in indian stock market. Plan is to include paper trading feature in the application for all segments of national stock exchange(NSE).",
       tags: [
         {
           name: "flutter",
@@ -260,7 +261,7 @@ import {
     {
       name: "Timestack",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "TimeStack is an open source pomodoro time management app, which helps managing distractions and control your time. The Pomodoro Technique is created by Francesco Cirillo for a more productive way to work and study.",
       tags: [
         {
           name: "nextjs",
@@ -282,7 +283,7 @@ import {
     {
       name: "Disk scheduling algo",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A comprehensive website on various disk scheduling algorithms present in the market, wherein you can calculate the shortest path and nodes along with graph by giving the input string for the required algorithm.",
       tags: [
         {
           name: "reactjs",
@@ -304,7 +305,7 @@ import {
     {
       name: "Keep notes",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A React Web-app with modern UI experience to store your notes in the cloud. You can manage your notes from different devices seamlessly with realtime data fetching from cloud. ",
       tags: [
         {
           name: "reactjs",
@@ -322,6 +323,28 @@ import {
       image: keep_notes,
       preview_link: "https://github.com/harshvarmora28/keep_notes_react_website",
       source_code_link: "https://github.com/harshvarmora28/keep_notes_react_website",
+    },
+    {
+      name: "Outturn - Track your Crypto Investment",
+      description:
+        "It shows Live Charts of all trending Cryptocurrencies out there including Live Price with change in percentage in 7 days of all trending Cryptocurrencies out there along with the Portfolio Screen for live tracking of your investment implemented with Modern Profile Section screen.",
+      tags: [
+        {
+          name: "reactnative",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "api",
+          color: "green-text-gradient",
+        },
+        {
+          name: "expo",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: outturn,
+      preview_link: "https://github.com/harshvarmora28/outturn_react_native",
+      source_code_link: "https://github.com/harshvarmora28/outturn_react_native",
     },
   ];
   
